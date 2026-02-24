@@ -6,6 +6,10 @@ Podatkovni list: https://gems-erasmus.eu/assets/hardware/amethyst/GEMS_Amethyst.
 
 ### spletne strani za cene komponent
 https://eu.mouser.com/
+https://www.tme.eu/si/sl/
+https://si.farnell.com/
+https://www.digikey.si/
+https://octopart.com/
 
 
 ## 1. vaja
