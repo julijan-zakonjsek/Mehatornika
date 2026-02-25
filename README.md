@@ -13,5 +13,5 @@ https://octopart.com/
 
 
 ## 1. vaja
-Obdelal smo en kup strani za iskanje komponent ko si jih je Rok pridno zapisvau, jappal smo o napetosti, toku in moči krmilnika, pogledal smo vir (usb port na kompu) pa ugotovil da se bomo mogl cappat na 500mA toka (glede na povprečno moč porta) za to da bojo lah vsi kompi to uporablal. Pol smo pa šli komponente gledat pa na podatkovne liste iskat. Na podatkovnem listu najdeš komponento, pol pa še ceno na eni od spletnih strani najdeš. <br>
-Dans mormo nareit kok bi stale komponente (1 al pa 100)
+Obdelal smo en kup strani za iskanje komponent, jappal smo o napetosti (5V na amethyst), toku in moči krmilnika, pogledal smo vir (usb port na kompu) pa ugotovil da se bomo mogl cappat na 500mA toka (glede na povprečno moč porta) za to da bojo lah vsi kompi to uporablal. Pol smo pa šli komponente gledat pa na podatkovne liste iskat. Na podatkovnem listu najdeš komponento, pol pa še ceno na eni od spletnih strani najdeš. <br>
+Dans mormo nareit kok bi stale komponente (1 al pa 100) pa probat ceno čim nižji zbit
