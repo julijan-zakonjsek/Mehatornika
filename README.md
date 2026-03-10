@@ -48,3 +48,4 @@ Vaja 3 kaj narediš v kicadu
 
 Odpreš .pro file tvojega projekta, pol odpreš .sch in greš switch to pcb editor (čist desno gor tista zelena ikonca)...
 tm če maš že kej zbrišeš vse in pritisneš F8 -> update pcb. to ti vrže ven vse komponente. Pol greš v board setup in daš physical stackup -> ok. in še design rules in tam noter vpišeš vrednosti iz spletne.
+Izbereš na desni strani edge cuts pa izbereš da boš linije risu. Uzgori pod orodno vrstico nastaviš mrežo na 1mm (ker to ni tk ko autocad ko zna sam zrihtat). Narisal smo okvir pa zaokrožitve (kr to je najbolj pomembn valda).Ko narišeš closed loop (za ploščo) maš v orodni vrstici 3d viewer pa lah pogledaš če si kej zafuku. pol pa vzameš vse elemente pcb-ja (ki si jih odbu ko si dau update pcb) pa jih namečeš notr pravilno. Zdej pa še nastavimo kere dele bo avtomatsko zalil z bakrom. To bo pa rok povedu kaj so klikal.
